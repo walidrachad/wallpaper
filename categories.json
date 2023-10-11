@@ -1,0 +1,74 @@
+{
+    "page": 1,
+    "per_page": 80,
+    "photos": [
+        {
+            "id": 1097456,
+            "width": 5999,
+            "height": 3999,
+            "url": "https://www.pexels.com/photo/person-wearing-red-hoodie-1097456/",
+            "photographer": "Sebastiaan Stam",
+            "photographer_url": "https://www.pexels.com/@sebastiaan9977",
+            "photographer_id": 420975,
+            "avg_color": "#0B0404",
+            "src": {
+                "original": "https://images.pexels.com/photos/1097456/pexels-photo-1097456.jpeg",
+                "large2x": "https://images.pexels.com/photos/1097456/pexels-photo-1097456.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+                "large": "https://images.pexels.com/photos/1097456/pexels-photo-1097456.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+                "medium": "https://images.pexels.com/photos/1097456/pexels-photo-1097456.jpeg?auto=compress&cs=tinysrgb&h=350",
+                "small": "https://images.pexels.com/photos/1097456/pexels-photo-1097456.jpeg?auto=compress&cs=tinysrgb&h=130",
+                "portrait": "https://images.pexels.com/photos/1097456/pexels-photo-1097456.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+                "landscape": "https://images.pexels.com/photos/1097456/pexels-photo-1097456.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+                "tiny": "https://images.pexels.com/photos/1097456/pexels-photo-1097456.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
+            },
+            "liked": false,
+            "alt": "Person Wearing Red Hoodie"
+        },
+        {
+            "id": 1918290,
+            "width": 2850,
+            "height": 3563,
+            "url": "https://www.pexels.com/photo/multicolored-skull-decor-1918290/",
+            "photographer": "Chait Goli",
+            "photographer_url": "https://www.pexels.com/@chaitaastic",
+            "photographer_id": 876963,
+            "avg_color": "#1C120F",
+            "src": {
+                "original": "https://images.pexels.com/photos/1918290/pexels-photo-1918290.jpeg",
+                "large2x": "https://images.pexels.com/photos/1918290/pexels-photo-1918290.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+                "large": "https://images.pexels.com/photos/1918290/pexels-photo-1918290.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+                "medium": "https://images.pexels.com/photos/1918290/pexels-photo-1918290.jpeg?auto=compress&cs=tinysrgb&h=350",
+                "small": "https://images.pexels.com/photos/1918290/pexels-photo-1918290.jpeg?auto=compress&cs=tinysrgb&h=130",
+                "portrait": "https://images.pexels.com/photos/1918290/pexels-photo-1918290.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+                "landscape": "https://images.pexels.com/photos/1918290/pexels-photo-1918290.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+                "tiny": "https://images.pexels.com/photos/1918290/pexels-photo-1918290.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
+            },
+            "liked": false,
+            "alt": "Multicolored Skull Decor"
+        },
+        {
+            "id": 1529881,
+            "width": 4896,
+            "height": 3264,
+            "url": "https://www.pexels.com/photo/grayscale-photography-of-trees-1529881/",
+            "photographer": "Dương Nhân",
+            "photographer_url": "https://www.pexels.com/@d-ng-nhan-324384",
+            "photographer_id": 324384,
+            "avg_color": "#515151",
+            "src": {
+                "original": "https://images.pexels.com/photos/1529881/pexels-photo-1529881.jpeg",
+                "large2x": "https://images.pexels.com/photos/1529881/pexels-photo-1529881.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+                "large": "https://images.pexels.com/photos/1529881/pexels-photo-1529881.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+                "medium": "https://images.pexels.com/photos/1529881/pexels-photo-1529881.jpeg?auto=compress&cs=tinysrgb&h=350",
+                "small": "https://images.pexels.com/photos/1529881/pexels-photo-1529881.jpeg?auto=compress&cs=tinysrgb&h=130",
+                "portrait": "https://images.pexels.com/photos/1529881/pexels-photo-1529881.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+                "landscape": "https://images.pexels.com/photos/1529881/pexels-photo-1529881.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+                "tiny": "https://images.pexels.com/photos/1529881/pexels-photo-1529881.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
+            },
+            "liked": false,
+            "alt": "Grayscale Photography of Trees"
+        }
+    ],
+    "total_results": 8000,
+    "next_page": "https://api.pexels.com/v1/search/?page=2&per_page=80&query=amoled+wallpaper+black+dark"
+}
